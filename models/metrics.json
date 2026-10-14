@@ -1,0 +1,19 @@
+{
+  "testament": {
+    "name": "testament",
+    "accuracy": 0.9242886995659861,
+    "n_train": 24882,
+    "n_test": 6221,
+    "macro_f1": 0.9035627202169869
+  },
+  "book": {
+    "name": "book",
+    "accuracy": 0.46584150458125706,
+    "n_train": 24882,
+    "n_test": 6221,
+    "macro_f1": 0.3521436264952689
+  },
+  "source_mini": "/Users/ebrown63/Desktop/Computer Science Projects/rightAI/Bible-NLP-and-ML-using-Python/Bible-Verse-Prediction-Machine-Learning-App/data/kjvmindata.csv",
+  "source_nlp": "/Users/ebrown63/Desktop/Computer Science Projects/projectFile1/kjv_final1.csv",
+  "note": "Canonical verse text is SWORD. This model is study-only (paste a line, guess book/testament)."
+}
